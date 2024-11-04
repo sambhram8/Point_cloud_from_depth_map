@@ -97,23 +97,4 @@ Use Open3D or other visualization libraries to inspect the generated point cloud
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-### Instructions for Use
-
-1. **Replace Placeholders:**
-   - Update `YOUR_GITHUB_USERNAME` and `YOUR_REPOSITORY` with your actual GitHub username and repository name.
-
-2. **Add Code Snippets:**
-   - If you have any specific code snippets or examples that are crucial for understanding, consider including them in the relevant sections.
-
-3. **Add Images or Diagrams:**
-   - If you have visual aids like calibration patterns, depth maps, or point clouds, consider adding images to enhance understanding.
-
-4. **Test the Instructions:**
-   - Make sure the setup instructions and code examples work correctly, and adjust any paths or configurations that might differ based on your setup.
-
-This `README.md` provides a clear overview of your project, guiding users through the setup and usage effectively. Let me know if you need further adjustments or specific sections added!
+guiding users through the setup and usage effectively. Let me know if you need further adjustments or specific sections added!
